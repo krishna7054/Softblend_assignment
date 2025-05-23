@@ -2,6 +2,21 @@
 
 A simple RESTful API for managing users and tasks, similar to a basic version of Trello or Todoist. Built with **Node.js**, **Express**, and **MongoDB**, with **JWT authentication** and **pagination**.
 
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Setup Instructions](#setup-instructions)
+- [Using Docker (Windows)](#using-docker-windows)
+- [Local Setup (Windows)](#local-setup-windows)
+- [API Endpoints](#api-endpoints)
+- [User APIs](#user-apis)
+- [Task APIs](#task-apis)
+- [Authentication](#authentication)
+- [Deploy Endpoints](#deploy-endpoints)
+- [Notes](#notes)
+
 ## Features
 
 - User management: Create users, get user details, list all users.
